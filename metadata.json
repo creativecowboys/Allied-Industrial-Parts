@@ -1,0 +1,7 @@
+{
+  "name": "Allied Industrial Parts",
+  "description": "A professional-grade industrial supply platform featuring a massive catalog of fasteners, tools, and safety equipment with AI-powered technical assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
